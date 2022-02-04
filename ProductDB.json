@@ -36,12 +36,7 @@ tshirt=[{brand:"Roadster",
          price:"1799",
          category:"Men",
          image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15813904/2021/11/16/eecd7d2e-28a8-4c60-9d91-a3238432c8b81637050200787TshirtsLevisMenJeansLevisMenJeansLevisMenShirtsArrowSportMen3.jpg",
-         discription:"Black Tshirt for men
-Brand logo printed
-Regular length
-Round neck
-Short, regular sleeves
-Knitted cotton fabric"
+         discription:"Black Tshirt for men, Brand logo printed,Regular length,Round neck,Short, regular sleeves,Knitted cotton fabric"
          },
          {brand:"Roadster",
          name:"Cotton Pure Cotton T-shirt",
@@ -67,8 +62,102 @@ Knitted cotton fabric"
          image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12377258/2020/9/11/ce1b7bcb-a65a-4eb0-a317-42ac02718f1e1599798741705UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt1.jpg",
          discription:"Teal green Tropical printed T-shirt, has a round neck, and long sleeves"
          }];
-jeans=[];
-sheos=[];
+jeans=[{brand:"Levis",
+         name:"512 Slim Tapered Fit Light Fade Stretchable Jeans",
+         color:"Blue",
+         price:"2599",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15038458/2021/9/23/50f53771-011e-4f89-8943-c8829310f5cc1632387251153-Levis-Men-Jeans-7971632387250390-1.jpg",
+         discription:"Medium shade, light fade blue jeans, Slim Taperedfit, mid-rise, Clean look, Stretchable, 5 pocket,Length: regular"
+         },
+         {brand:"Roadster",
+         name:"Mid-Rise Clean Look Stretchable Jeans",
+         color:"Black",
+         price:"1699",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/7139482/2018/11/20/67238d5c-8749-47b5-a4e1-732aedc885d91542713378025-Roadster-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-9171542713377845-1.jpg",
+         discription:"Black dark wash 5-pocket mid-rise jeans, clean look with no fade, has a button and zip closure, waistband with belt loops"
+         },
+         {brand:"Calvin Klein Jeans",
+         name:"Skinny Fit Mid-Rise LowBlue Distress Stretchable Jeans",
+         color:"Black",
+         price:"12999",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11372942/2021/3/8/d352d478-2e0a-4fe0-b56d-969d430c12be1615183929792-Calvin-Klein-Jeans-Men-Jeans-2431615183927281-1.jpg",
+         discription:"Black light wash 5-pocket mid-rise jeans, clean look, light fade, has a button and zip closure, and waistband with belt loops"
+         },
+         {brand:"Levis",
+         name:"512 Slim Tapered Fit Heavy Fade Mid-Rise Stretchable Jeans",
+         color:"Blue",
+         price:"2899",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15038488/2021/9/27/dc3dca6a-28f9-4ba5-80f5-a36d59ae348b1632740981234-Levis-Men-Jeans-3271632740980432-1.jpg",
+         discription:"Light shade, heavy fade blue jeans, Slim Tapered fit, mid-rise, Clean look, Stretchable, 5 pocket, Length: regular"
+         },
+         {brand:"Roadster",
+         name:"Skinny Fit Mid-Rise Clean Look Stretchable Jeans",
+         color:"Charcoal Grey",
+         price:"1499",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12358410/2020/12/18/bce2f091-0124-459b-a42e-e260a05a55361608291128978-Roadster-Men-Jeans-6811608291127278-1.jpg",
+         discription:"Charcoal grey dark wash 5-pocket mid-rise jeans, clean look, heavy fade, has a button and zip closure, and waistband with belt loops"
+         },
+         {brand:"Calvin Klein Jeans",
+         name:"Slim Fit Light Fade Stretchable Jeans",
+         color:"Blue",
+         price:"6999",
+         category:"Men",
+         image:"",
+         discription:"Medium shade, light fade blue jeans, Slim fit, mid-rise, Clean look, Stretchable, 5 pocket, Length: regular"
+         },
+         {brand:"VAN HEUSEN DENIM LABS",
+         name:"Skinny Fit Low-Rise Light Fade Stretchable Jeans",
+         color:"Blue",
+         price:"1999",
+         category:"Men",
+         image:"",
+         discription:"Dark shade, light fade blue jeans, Skinny fit, low-rise, Clean look, Stretchable, 5 pockets, Length: regular"
+         },
+         {brand:"Levis",
+         name:"Skinny Fit Light Fade Stretchable Jeans",
+         color:"Blue",
+         price:"3699",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14852322/2021/7/29/f7520958-91ef-44dc-b684-f6f2434614c61627556020912-Levis-Men-Jeans-831627556020241-1.jpg",
+         discription:"Medium shade, light fade blue jeans, Skinny fit, mid-rise, Clean look, Stretchable, 5 pocket, Length: regular"
+         },];
+sheos=[{brand:"",
+         name:"",
+         color:"",
+         price:"",
+         category:"Men",
+         image:"",
+         discription:""
+         },
+         {brand:"",
+         name:"",
+         color:"",
+         price:"",
+         category:"Men",
+         image:"",
+         discription:""
+         },
+         {brand:"",
+         name:"",
+         color:"",
+         price:"",
+         category:"Men",
+         image:"",
+         discription:""
+         },
+         {brand:"",
+         name:"",
+         color:"",
+         price:"",
+         category:"Men",
+         image:"",
+         discription:""
+         },];
 shirt=[];
 lower=[];
 chappal=[]
