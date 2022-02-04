@@ -1,0 +1,74 @@
+tshirt=[{brand:"Roadster",
+         name:"Pure Cotton T-shirt",
+         color:"White",
+         price:"299",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2275365/2019/9/10/4f24f563-c764-4f27-9fc5-9ad3dcf167621568108715062-Roadster-Men-White-Solid-Round-Neck-T-shirt-1641568108713591-1.jpg",
+         discription:"White solid T-shirt, has a round neck, short sleeves, 100% cotton"
+         },
+         {brand:"Roadster",
+         name:"Typography Printed Cotton T-shirt",
+         color:"Maroon",
+         price:"599",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/2308267/2018/1/29/11517216335251-Roadster-Men-Maroon-Printed-Round-Neck-T-shirt-5591517216335098-1.jpg",
+         discription:"Maroon printed T-shirt, has a round neck, short sleeves, 100% cotton"
+         },
+         {brand:"Roadster",
+         name:"Round Neck Pure Cotton T-shirt",
+         color:"Teal Blue Dyed",
+         price:"899",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/10938420/2020/3/5/888fd8d2-9d94-4b3e-a994-2544c951b0a31583386820601-Roadster-Men-Teal-Blue-Dyed-Round-Neck-T-shirt-3515833868187-1.jpg",
+         discription:"Teal dyed T-shirt, has a round neck, short sleeves, and 1 pocket"
+         },
+         {brand:"Nike",
+         name:"Dri Fit Training T-shirt",
+         color:"White",
+         price:"1495",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15810296/2022/1/4/46d45d99-365c-4f03-ab12-aee3d9b752b81641295475795-Nike-Men-Tshirts-6811641295475412-3.jpg",
+         discription:"The Nike Dri-FIT T-Shirt keeps you dry and comfortable anywhere you work out with lightweight fabric that wicks sweat. An anti-odor finish helps the tee stay fresher longe"
+         },
+         {brand:"Levis",
+         name:"Printed T-shirt",
+         color:"Black",
+         price:"1799",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15813904/2021/11/16/eecd7d2e-28a8-4c60-9d91-a3238432c8b81637050200787TshirtsLevisMenJeansLevisMenJeansLevisMenShirtsArrowSportMen3.jpg",
+         discription:"Black Tshirt for men
+Brand logo printed
+Regular length
+Round neck
+Short, regular sleeves
+Knitted cotton fabric"
+         },
+         {brand:"Roadster",
+         name:"Cotton Pure Cotton T-shirt",
+         color:"Black",
+         price:"399",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1996777/2017/11/7/11510046815508-Roadster-Men-Black-Solid-Round-Neck-T-shirt-4011510046815294-1.jpg",
+         discription:"Black solid T-shirt, has a round neck, short sleeves"
+         },
+         {brand:"HRX",
+         name:"Printed Cotton Pure Cotton T-shirt",
+         color:"Yellow",
+         price:"699",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1700944/2019/6/8/972c9498-3a37-4d5d-976c-4493b4d5c0021559989322793-HRX-by-Hrithik-Roshan-Men-Yellow-Printed-Round-Neck-T-Shirt--1.jpg",
+         discription:"Keep this hip this season with the HRX Men's Athleisure T-shirt. This versatile T-shirt can be styled any way you like for the ultimate gym-to-street look."
+         },
+         {brand:"Urbano Fashion",
+         name:"lim Fit Tropical Printed Pure Cotton T-shirt",
+         color:"Teal Green",
+         price:"1099",
+         category:"Men",
+         image:"https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/12377258/2020/9/11/ce1b7bcb-a65a-4eb0-a317-42ac02718f1e1599798741705UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt1.jpg",
+         discription:"Teal green Tropical printed T-shirt, has a round neck, and long sleeves"
+         }];
+jeans=[];
+sheos=[];
+shirt=[];
+lower=[];
+chappal=[]
